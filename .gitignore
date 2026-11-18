@@ -1,0 +1,13 @@
+# Secrets
+.env
+
+# Python
+venv/
+.venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Downloaded data
+rag/attention.pdf
+chroma*/
